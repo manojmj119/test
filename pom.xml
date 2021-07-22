@@ -35,10 +35,11 @@
  
  <distributionManagement>
 <snapshotRepository>
-  <id>cicdpipeline</id>
-  <name>cicdpipeline</name>
-  <url>http://13.235.81.227:8081/repository/cicdpipeline/</url>
+  <id>CICD-Pipeline</id>
+  <name>CICD-Pipeline</name>
+  <url>http://localhost:8081/repository/CICD-Pipeline/</url>
   </snapshotRepository>
   </distributionManagement>
  
 </project>
+
